@@ -2,6 +2,7 @@
 Testing git repositories using Ubuntu
 
 Special thanks to Gaël Thomas from freecodecamp for the free online guide.
+
 https://www.freecodecamp.org/news/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861/
 
 ### My first repository is awesome!
